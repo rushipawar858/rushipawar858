@@ -27,7 +27,7 @@ I'm a **DevOps Engineer** with hands-on experience in cloud infrastructure, CI/C
 - ☁️ Experienced with **AWS** and **Utho Cloud** infrastructure
 - 🐳 Deploying and managing apps using **Docker & Kubernetes**
 - 🔁 Building **CI/CD pipelines** with GitLab CI & Jenkins
-- 📊 Setting up monitoring with **Grafana & Prometheus**
+- 📊 Setting up monitoring with **Grafana & CloudWatch**
 - 💻 Full Stack capable — **React, Node.js, Python**
 - 📍 Based in Sangamner, Maharashtra, India
 
@@ -109,7 +109,7 @@ I'm open to **freelance projects**, **contract work**, and **collaborations**.
 
 Have a project that needs cloud infrastructure, DevOps automation, or a web/mobile app?
 
-**📧 rushipawar5207@gmail.com**
+**📧 rushipawar1511@gmail.com**
 
 ---
 
