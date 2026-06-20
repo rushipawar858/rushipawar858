@@ -1,26 +1,39 @@
-Hi, I'm Rushikesh Pawar 👋
+<h1 align="center">Hi, I'm Rushikesh Pawar 👋</h1>
 
-  DevOps Engineer & Cloud Architect
+<p align="center">
+  <b>DevOps Engineer & Cloud Architect</b><br/>
   Building scalable infrastructure · Automating everything · Shipping reliable products
+</p>
 
+<p align="center">
+  <a href="mailto:rushipawar1511@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://linkedin.com/in/rushipawar858">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://gitlab.com/rushipawar858">
+    <img src="https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white"/>
+  </a>
+</p>
 
-  Mailto : rushipawar1511@gmail.com
-  Linkedin : https://linkedin.com/in/rushipawar858
-  Gitlab : https://gitlab.com/rushipawar858
+---
 
-🚀 About Me
+## 🚀 About Me
 
-I'm a DevOps Engineer with hands-on experience in cloud infrastructure, CI/CD automation, and containerized deployments. I help teams ship faster, scale reliably, and sleep better at night.
+I'm a **DevOps Engineer** with hands-on experience in cloud infrastructure, CI/CD automation, and containerized deployments. I help teams ship faster, scale reliably, and sleep better at night.
 
-- 🔧 Currently working as DevOps Engineer at The BAAP Company
-- ☁️ Experienced with **AWS** and Utho Cloud infrastructure
-- 🐳 Deploying and managing apps using Docker & Kubernetes
-- 🔁 Building CI/CD pipelines with GitLab CI & Jenkins
-- 📊 Setting up monitoring with Grafana & Prometheus
-- 💻 Full Stack capable — React, Node.js, Python
+- 🔧 Currently working as **DevOps Engineer at The BAAP Company**
+- ☁️ Experienced with **AWS** and **Utho Cloud** infrastructure
+- 🐳 Deploying and managing apps using **Docker & Kubernetes**
+- 🔁 Building **CI/CD pipelines** with GitLab CI & Jenkins
+- 📊 Setting up monitoring with **Grafana & Prometheus**
+- 💻 Full Stack capable — **React, Node.js, Python**
 - 📍 Based in Sangamner, Maharashtra, India
 
-🛠️ Tech Stack
+---
+
+## 🛠️ Tech Stack
 
 ### ☁️ Cloud & Infrastructure
 ![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
@@ -43,22 +56,30 @@ I'm a DevOps Engineer with hands-on experience in cloud infrastructure, CI/CD au
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
 
-📂 Featured Projects
+---
+
+## 📂 Featured Projects
 
 ### 🔁 [node-CICD](https://github.com/rushipawar858/node-CICD)
 > End-to-end CI/CD pipeline for a Node.js application using GitLab CI/CD with automated build, test, and deployment stages.
 
 **Stack:** Node.js · GitLab CI · Docker · EJS
 
+---
+
 ### 🤖 [python-chatbot](https://github.com/rushipawar858/python-chatbot)
 > Conversational chatbot built in Python — demonstrates backend logic, NLP basics, and API integration.
 
 **Stack:** Python · REST API
 
+---
+
 ### ⚛️ [react-app](https://github.com/rushipawar858/react-app)
 > Full-featured React frontend application with component-based architecture and state management.
 
 **Stack:** React · JavaScript
+
+---
 
 ## 💼 What I Can Do For You
 
@@ -71,6 +92,7 @@ I'm a DevOps Engineer with hands-on experience in cloud infrastructure, CI/CD au
 | 🌐 Web App Development | Full stack web apps with React + Node.js backend |
 | 📱 Mobile App | Cross-platform mobile apps |
 
+---
 
 ## 📈 GitHub Stats
 
@@ -79,11 +101,18 @@ I'm a DevOps Engineer with hands-on experience in cloud infrastructure, CI/CD au
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rushipawar858&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
 </p>
 
-📫 Let's Work Together
+---
+
+## 📫 Let's Work Together
 
 I'm open to **freelance projects**, **contract work**, and **collaborations**.
+
 Have a project that needs cloud infrastructure, DevOps automation, or a web/mobile app?
 
-📧 rushipawar1511@gmail.com
+**📧 rushipawar5207@gmail.com**
 
-  "Automate the boring stuff. Ship the great stuff.
+---
+
+<p align="center">
+  <i>"Automate the boring stuff. Ship the great stuff."</i>
+</p>
